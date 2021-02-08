@@ -16,7 +16,7 @@ The videos and sample in this repository provides an introductory lesson on the 
 - Windows 10
 - Unity Version 2019.4.11f1
 - [MRTK Foundation Package 2.4.0](https://github.com/microsoft/MixedRealityToolkit-Unity/releases/tag/v2.4.0)
-- [Tools Installed for Windows Mixed Reality development](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools?tabs=unity)
+- [Tools Installed for Windows Mixed Reality development](https://docs.microsoft.com/windows/mixed-reality/develop/install-the-tools?tabs=unity&WT.mc_id=spatial-0000-apspeigh)
 - Device
 
 ## Videos
