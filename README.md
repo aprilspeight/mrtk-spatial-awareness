@@ -21,7 +21,7 @@ The videos and sample in this repository provides an introductory lesson on the 
 
 ## Videos
 
-Videos are published on YouTube in the playlist: [Made with MRTK: Spatial Awareness](https://www.youtube.com/c/vogueandcode)
+Videos are published on YouTube in the playlist: [Made with MRTK: Spatial Awareness](https://www.youtube.com/playlist?list=PLAMIIZxk0qTRXkZxD7lxYM5OoBlO_CTUw)
 
 |  Title |  Description |  Link |
 |---|---|---|
